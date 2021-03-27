@@ -7,7 +7,7 @@ The steps are as follows:
 * Install the livery megapack: https://www.projectmegapack.com/downloads-liveries/. Drop all individual liveries into the MSFS Community Folder.
 * Install the IVAO Altitude Client for MSFS 2020: https://www.ivao.aero/softdev/beta/altitudebeta.asp. (In the installer, be sure to include the "MTL" or CSL while downloading.
 * Ensure that the folder named "ivao_x-csl" is located in your MSFS commuity folder (at this point, you also may optionally delete the IVAO client if you do not use the network.)
-* Download the latest msfs-vmr release here
+* Download the latest msfs-vmr release [here](https://github.com/migte/msfs-vmr/releases/latest)
 * Open vPilot and go to Settings > Model Matching (MSFS) > Custom Rules > Add Custom Rule Set(s)
 * Add `msfs matching 1.vmr` and `msfs matching 2.vmr` and ensure that 1 is underneath 2 (you may re-arrange this using the buttons labeled Move Up/Down)
 
