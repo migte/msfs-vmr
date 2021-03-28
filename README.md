@@ -1,4 +1,4 @@
-# VMR (Model Matching) Files for MSFS
+# Vatsim VMR (Model Matching) Files for MSFS
 
 Currently, there is no good model matching for MSFS. Fortunately, there are still ways to get good matching for the time being while we wait.
 
