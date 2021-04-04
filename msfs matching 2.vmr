@@ -19247,4 +19247,231 @@
   <ModelMatchRule CallsignPrefix="LFT" ModelName="Cessna CJ4 Citation LifeFlight" />
   <ModelMatchRule CallsignPrefix="SAZ" ModelName="Cessna CJ4 Citation Rega" />
   <ModelMatchRule CallsignPrefix="KIW" ModelName="Beechcraft King Air 350 RNZAF" />
+  <ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub" />
+	<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub" />
+	<ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="C25A" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="C25B" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo" />
+	<ModelMatchRule TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX" />
+	<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk G1000 Asobo" />
+	<ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo" />
+	<ModelMatchRule TypeCode="B350" ModelName="Beechcraft King Air 350i Asobo" />
+	<ModelMatchRule TypeCode="BE36" ModelName="Bonanza G36 Asobo" />
+	<ModelMatchRule TypeCode="DR40" ModelName="DR400 Asobo" />
+	<ModelMatchRule TypeCode="CP10" ModelName="Mudry Cap 10 C" />
+	<ModelMatchRule TypeCode="VL3" ModelName="VL3 Asobo" />
+	<ModelMatchRule TypeCode="A5" ModelName="Icon A5 Asobo" />
+	<ModelMatchRule TypeCode="FDCT" ModelName="FlightDesignCT Asobo" />
+	<ModelMatchRule TypeCode="E300" ModelName="Extra 330 Asobo" />
+	<ModelMatchRule TypeCode="DA62" ModelName="DA62 Asobo" />
+	<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo" />
+	<ModelMatchRule TypeCode="TBM9" ModelName="TBM 930 Asobo" />
+	<ModelMatchRule TypeCode="CC19" ModelName="Asobo XCub" />
+	<ModelMatchRule TypeCode="B748" ModelName="Boeing 747-8i Asobo" />
+	<ModelMatchRule TypeCode="PTS2" ModelName="Pitts Asobo" />
+	<ModelMatchRule TypeCode="A20N" ModelName="Airbus A320 Neo Asobo" />
+	<ModelMatchRule TypeCode="C120" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C140" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo" />
+  <ModelMatchRule TypeCode="C162" ModelName="Cessna 152 Asobo" />
+  <ModelMatchRule TypeCode="C150" ModelName="Cessna 152 Asobo" />
+  <ModelMatchRule TypeCode="C170" ModelName="Cessna 172 Asobo" />
+  <ModelMatchRule TypeCode="C172" ModelName="Cessna 172 Asobo" />
+  <ModelMatchRule TypeCode="C175" ModelName="Cessna 172 Asobo" />
+  <ModelMatchRule TypeCode="C204" ModelName="Cessna 172 Asobo" />
+  <ModelMatchRule TypeCode="C177" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C180" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C182" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C190" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C195" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C205" ModelName="Cessna 172 Asobo//Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX" />
+  <ModelMatchRule TypeCode="C08T" ModelName="Cessna 208B Grand Caravan EX" />
+  <ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo" />
+  <ModelMatchRule TypeCode="DA42" ModelName="DA40-NG Asobo" />
+  <ModelMatchRule TypeCode="DIMO" ModelName="DA40-NG Asobo" />
+  <ModelMatchRule TypeCode="DV20" ModelName="DV20 Asobo" />
+  <ModelMatchRule TypeCode="DA62" ModelName="DA62 Asobo" />
+  <ModelMatchRule TypeCode="DR40" ModelName="DR400 Asobo" />
+  <ModelMatchRule TypeCode="DR41" ModelName="DR400 Asobo" />
+  <ModelMatchRule TypeCode="E200" ModelName="Extra 330 Asobo" />
+  <ModelMatchRule TypeCode="E230" ModelName="Extra 330 Asobo" />
+  <ModelMatchRule TypeCode="E300" ModelName="Extra 330 Asobo" />
+  <ModelMatchRule TypeCode="E400" ModelName="Extra 330 Asobo" />
+  <ModelMatchRule TypeCode="A5" ModelName="Icon A5 Asobo" />
+  <ModelMatchRule TypeCode="PIAT" ModelName="Pipistrel Asobo" />
+  <ModelMatchRule TypeCode="FDCT" ModelName="FlightDesignCT Asobo" />
+  <ModelMatchRule TypeCode="CC19" ModelName="Asobo XCub" />
+  <ModelMatchRule TypeCode="PA18" ModelName="Asobo XCub" />
+  <ModelMatchRule TypeCode="PTS1" ModelName="Pitts Asobo" />
+  <ModelMatchRule TypeCode="PTS2" ModelName="Pitts Asobo" />
+  <ModelMatchRule TypeCode="PTSM" ModelName="Pitts Asobo" />
+  <ModelMatchRule TypeCode="PTSS" ModelName="Pitts Asobo" />
+  <ModelMatchRule TypeCode="Vl3L" ModelName="Vl3 Asobo" />
+  <ModelMatchRule TypeCode="SAH1" ModelName="Vl3 Asobo" />
+  <ModelMatchRule TypeCode="WS22" ModelName="Vl3 Asobo" />
+  <ModelMatchRule TypeCode="SR22" ModelName="Cirrus SR22 Asobo" />
+  <ModelMatchRule TypeCode="SR20" ModelName="Cirrus SR22 Asobo" />
+  <ModelMatchRule TypeCode="S22T" ModelName="Cirrus SR22 Asobo" />
+  <ModelMatchRule TypeCode="PA28" ModelName="Cirrus SR22 Asobo" />
+  <ModelMatchRule TypeCode="PA31" ModelName="Cirrus SR22 Asobo" />
+  <ModelMatchRule TypeCode="C25A" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C25B" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C25M" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C500" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C501" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C510" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C525" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C550" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C551" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="C55B" ModelName="Cessna CJ4 Citation Asobo" />
+  <ModelMatchRule TypeCode="TBM7" ModelName="TBM 930 Asobo" />
+  <ModelMatchRule TypeCode="TBM8" ModelName="TBM 930 Asobo" />
+  <ModelMatchRule TypeCode="TBM9" ModelName="TBM 930 Asobo" />
+  <ModelMatchRule TypeCode="C140" ModelName="Asobo XCub" />
+  <ModelMatchRule TypeCode="J2" ModelName="Asobo Savage Cub" />
+  <ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub" />
+  <ModelMatchRule TypeCode="J4" ModelName="Asobo Savage Cub" />
+  <ModelMatchRule TypeCode="J5" ModelName="Asobo Savage Cub" />
+  <ModelMatchRule TypeCode="P28A" ModelName="SR22 Asobo" />
+	 <ModelMatchRule TypeCode="BCS1" ModelName="Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 02//Generic Airliner Twin Engines Asobo 03" />
+  <ModelMatchRule TypeCode="BCS3" ModelName="Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 02//Generic Airliner Twin Engines Asobo 03" />
+  <ModelMatchRule TypeCode="BE10" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BE20" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BE30" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BE33" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="BE35" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="BE36" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="BE40" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02// Generic Private Jet Asobo 01// Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="BE50" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BE55" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="BE56" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="BE58" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="BE60" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="BE65" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="BE99" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BE9L" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BN2P" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BN2T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="BT36" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C02T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C04T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C07T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C130" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C14T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C150" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C152" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C162" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C17" ModelName="Generic Airliner Quad Engines Asobo 00//Generic Airliner Quad Engines Asobo 01//Generic Airliner Quad Engines Asobo 02//Generic Airliner Quad Engines Asobo 03//Generic Airliner Quad Engines Asobo 04" />
+  <ModelMatchRule TypeCode="C172" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C175" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C177" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C180" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C182" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C185" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C190" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C205" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C206" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C207" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C208" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C210" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="C240" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="C25A" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C25M" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C25C" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C310" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="C402" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="C404" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="C408" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="C500" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C510" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C525" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C550" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C56X" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C650" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="C750" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="CONC" ModelName="Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 02//Generic Airliner Twin Engines Asobo 03" />
+  <ModelMatchRule TypeCode="CRJ1" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="CRJ2" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="CRJ7" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="CRJ9" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="CRJX" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="DA40" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="DA42" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DA62" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DC10" ModelName="Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 02//Generic Airliner Twin Engines Asobo 03" />
+  <ModelMatchRule TypeCode="DC85" ModelName="Generic Airliner Quad Engines Asobo 00//Generic Airliner Quad Engines Asobo 01//Generic Airliner Quad Engines Asobo 02//Generic Airliner Quad Engines Asobo 03//Generic Airliner Quad Engines Asobo 04" />
+  <ModelMatchRule TypeCode="DC86" ModelName="Generic Airliner Quad Engines Asobo 00//Generic Airliner Quad Engines Asobo 01//Generic Airliner Quad Engines Asobo 02//Generic Airliner Quad Engines Asobo 03//Generic Airliner Quad Engines Asobo 04" />
+  <ModelMatchRule TypeCode="DC87" ModelName="Generic Airliner Quad Engines Asobo 00//Generic Airliner Quad Engines Asobo 01//Generic Airliner Quad Engines Asobo 02//Generic Airliner Quad Engines Asobo 03//Generic Airliner Quad Engines Asobo 04: Generic Airliner Quad Engines Asobo 01// Generic Airliner Quad Engines Asobo 02// Generic Airliner Quad Engines Asobo 03// Generic Airliner Quad Engines Asobo 04" />
+  <ModelMatchRule TypeCode="DC91" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DC92" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DC93" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DC94" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DC95" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DH8A" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DH8B" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DH8C" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="DH9D" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="E135" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E145" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E45X" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E50P" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E550" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E170" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E75L" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="E75S" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="G250" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="G280" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GA5C" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GA6C" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GA7C" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GALX" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GL5T" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GL7T" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLEX" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLF2" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLF3" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLF4" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLF5" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="GLF6" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="H25B" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="H25C" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="J3" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="MD11" ModelName="Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 02//Generic Airliner Twin Engines Asobo 03" />
+  <ModelMatchRule TypeCode="MD81" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MD82" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MD83" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MD87" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02// Generic Airliner Twin Engines Asobo 00// Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MD88" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MD90" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02// Generic Airliner Twin Engines Asobo 00// Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="MRJ7" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="MRJ9" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="P180" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="P28A" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P28B" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02// Generic Piston Single Engine Asobo 01// Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="P28R" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P28T" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P28U" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P3" ModelName="Generic Airliner Twin Engines Asobo 01//Generic Airliner Twin Engines Asobo 00//Generic Airliner Twin Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P32R" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P32T" ModelName="Generic Piston Multi Engines Asobo 00//Generic Piston Multi Engines Asobo 01//Generic Piston Multi Engines Asobo 02" />
+  <ModelMatchRule TypeCode="P8" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="PA18" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="PA30" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="PA31" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="PA44" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="PA46" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="RJ1H" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="RJ70" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="RJ85" ModelName="Generic Private Jet Asobo 00//Generic Private Jet Asobo 01//Generic Private Jet Asobo 02" />
+  <ModelMatchRule TypeCode="SW3" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="SW4" ModelName="Generic Piston Multi Engines Asobo 00" />
+  <ModelMatchRule TypeCode="T206" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="T210" ModelName="Generic Piston Single Engine Asobo 00//Generic Piston Single Engine Asobo 01//Generic Piston Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="TBM7" ModelName="Generic Turbo Single Engine Asobo 00//Generic Turbo Single Engine Asobo 01//Generic Turbo Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="TBM8" ModelName="Generic Turbo Single Engine Asobo 00//Generic Turbo Single Engine Asobo 01//Generic Turbo Single Engine Asobo 02" />
+  <ModelMatchRule TypeCode="TBM9" ModelName="Generic Turbo Single Engine Asobo 00//Generic Turbo Single Engine Asobo 01//Generic Turbo Single Engine Asobo 02" />
 </ModelMatchRuleSet>

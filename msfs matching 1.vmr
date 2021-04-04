@@ -291,7 +291,7 @@
   <ModelMatchRule CallsignPrefix="@RT" TypeCode="A319" ModelName="A319@RT" />
   <ModelMatchRule CallsignPrefix="@VG" TypeCode="A319" ModelName="A319@VG" />
   <ModelMatchRule CallsignPrefix="AAF" TypeCode="A319" ModelName="A319AAF" />
-  <ModelMatchRule CallsignPrefix="`" TypeCode="A319" ModelName="A319AAL" />
+  <ModelMatchRule CallsignPrefix="AAL" TypeCode="A319" ModelName="A319AAL" />
   <ModelMatchRule CallsignPrefix="AAL" TypeCode="A319" ModelName="A319AAL2" />
   <ModelMatchRule CallsignPrefix="AAW" TypeCode="A319" ModelName="A319AAW" />
   <ModelMatchRule CallsignPrefix="AAW" TypeCode="A319" ModelName="A319WAAW2" />
